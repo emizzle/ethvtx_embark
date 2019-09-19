@@ -22,7 +22,7 @@ export class TxListRaw extends React.Component {
                 <Card key={idx} style={{marginTop: '10px'}}>
                     <CardHeader>{e.hash}</CardHeader>
                     <CardBody>
-                        <p>Status: {TxStatusName[e.status]}</p>
+                        <p>Status: {e.status}</p>
 
                         <p>From: {e.infos.from}</p>
 

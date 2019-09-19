@@ -6,9 +6,9 @@ This is an Embark template showcasing the features of `ethvtx`.
 
 ### Versions
 
-| `embark` | `ethvtx` |
-| :------: | :------: |
-| 4.1.0-beta.0 | 2.0.6 |
+| `embark` | `ethvtx` | `web3` |
+| :------: | :------: | :---:  |
+| 4.1.1    | 2.0.6    | 1.2.1  |
 
 ### Run the app
 

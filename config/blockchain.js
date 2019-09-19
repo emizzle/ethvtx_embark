@@ -16,7 +16,7 @@ module.exports = {
     // The order here corresponds to the order of `web3.eth.getAccounts`, so the first one is the `defaultAccount`
     accounts: [
       {
-        mnemonic: 'unfold food mystery fashion leaf voice check appear worry kite canal album',
+        mnemonic: 'cross uniform panic climb universe awful surprise list dutch ability label cat',
         numAddresses: "10"
       }
     ]
