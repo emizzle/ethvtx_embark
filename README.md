@@ -9,6 +9,7 @@ This is an Embark template showcasing the features of `ethvtx`.
 | `embark` | `ethvtx` | `web3` |
 | :------: | :------: | :---:  |
 | 4.1.1    | 2.0.6    | 1.2.1  |
+##### Please note: support for this template has been deprecated in Embark v5.
 
 ### Run the app
 
